@@ -7,12 +7,15 @@
  👨‍💻 Studied Informatics Student at Sebelas Maret University  
  📓 Passionate about Cybersecurity and Becoming a Long Life Learner  
 
- > "Consistency is the only shortcut in this world that actually works."  
+--- 
+**"Consistency is the only shortcut in this world that actually works."**  
+
+---
 
 ### Currently Learning
-📕 Cybersecurity fundamentals and certification courses
-📗 Regularly completing rooms and challenges on [TryHackMe](https://tryhackme.com/p/0xArilSecured)
-📘 Web application vulnerabilities and security testing
+📕 Cybersecurity fundamentals and certification courses  
+📗 Regularly completing rooms and challenges on [TryHackMe](https://tryhackme.com/p/0xArilSecured)  
+📘 Web application vulnerabilities and security testing  
 
 ### Tech Stack
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
