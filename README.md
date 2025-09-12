@@ -23,26 +23,3 @@ I am a cybersecurity enthusiast preparing for a career as a SOC Analyst, with st
 ## Tech Stack
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-
-## My Current Certifications and Accomplishment
-
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Google-Cybersecurity-blue?logo=google" alt="Google Cybersecurity" /><br/>
-      <b>Google Cybersecurity Certificate</b><br/>
-      Completed
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia" alt="CompTIA Security+" /><br/>
-      <b>CompTIA Security+</b><br/>
-      Preparing
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/TryHackMe-Learner-green?logo=tryhackme" alt="TryHackMe" /><br/>
-      <b>TryHackMe</b><br/>
-      Active Learner
-    </td>
-  </tr>
-</table>
